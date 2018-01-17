@@ -1,0 +1,11 @@
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\bin\Debug\netstandard2.0\CustomRoundCornorView.deps.json
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\bin\Debug\netstandard2.0\CustomRoundCornorView.dll
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\bin\Debug\netstandard2.0\CustomRoundCornorView.pdb
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\obj\Debug\netstandard2.0\CustomRoundCornorView.csprojResolveAssemblyReference.cache
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\obj\Debug\netstandard2.0\CustomRoundCornorView.csproj.CoreCompileInputs.cache
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\obj\Debug\netstandard2.0\CustomRoundCornorView.App.xaml.g.cs
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\obj\Debug\netstandard2.0\CustomRoundCornorView.SampleView.xaml.g.cs
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\obj\Debug\netstandard2.0\CustomRoundCornorView.AssemblyInfoInputs.cache
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\obj\Debug\netstandard2.0\CustomRoundCornorView.AssemblyInfo.cs
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\obj\Debug\netstandard2.0\CustomRoundCornorView.dll
+C:\Users\100256\source\repos\CustomRoundCornorView\CustomRoundCornorView\CustomRoundCornorView\obj\Debug\netstandard2.0\CustomRoundCornorView.pdb
